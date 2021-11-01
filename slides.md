@@ -203,7 +203,7 @@ https://carpentries-incubator.github.io/machine-learning-librarians-archivists/
 
 Email: triznam@si.edu
 
-Slides: 
+Slides: https://github.com/MikeTrizna/richmond_datascience_talk
 
 ---
 
